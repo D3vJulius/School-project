@@ -5,7 +5,7 @@ This is a website that i'm coding for my school project.
 ## Example code
 
 ```javascript
-print("Coming soon")
+print("Coming soon :D")
 ```
 
 ## Contributing
